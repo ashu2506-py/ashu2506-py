@@ -107,7 +107,7 @@ Automated email sender with scheduling and logging.
 
 - GitHub: https://github.com/ashu2506-py
 - LinkedIn: www.linkedin.com/in/ashutosh25o6
-
+- Instagram: www.instagram.com/ashutosh_25o6
 ---
 
 ⭐ Always learning, building, and exploring new technologies.
